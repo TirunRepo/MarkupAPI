@@ -1,0 +1,6 @@
+@MarkupApi_HostAddress = http://localhost:5109
+
+GET {{MarkupApi_HostAddress}}/swagger/
+Accept: application/json
+
+###
